@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SatyamPandey9/SatyamPandey9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://peopleofcolorintech.com/wp-content/uploads/2016/02/iOS-Developer-540x317@2x.jpg)](https://omveerpanwar.page/)
+[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/w1200-h630-p-k-no-nu/2000_600px.gif)]()
 <h1 align="center">Hi 👋, I'm Omveer Panwar</h1>
 <h3 align="center">Mobile Application Developer</h3>
 <h1 align="center">
